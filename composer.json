@@ -15,5 +15,12 @@
         "psr-4": {
             "Adityaricki\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Adityaricki\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
