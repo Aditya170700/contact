@@ -1,6 +1,6 @@
 <?php
 
-namespace Sk\Contact;
+namespace Adityaricki\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Sk\Contact\Http\Controllers\ContactController;
+use Adityaricki\Contact\Http\Controllers\ContactController;
 
 Route::controller(ContactController::class)
     ->name('contacts.')

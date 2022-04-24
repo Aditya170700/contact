@@ -1,8 +1,8 @@
 <?php
 
-namespace Sk\Contact\Models;
+namespace Adityaricki\Contact\Models;
 
-use Sk\Contact\Traits\Uuid;
+use Adityaricki\Contact\Traits\Uuid;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 

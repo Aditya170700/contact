@@ -1,10 +1,10 @@
 <?php
 
-namespace Sk\Contact\Http\Controllers;
+namespace Adityaricki\Contact\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Sk\Contact\Models\Contact;
-use Sk\Contact\Mail\ContactMail;
+use Adityaricki\Contact\Models\Contact;
+use Adityaricki\Contact\Mail\ContactMail;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Mail;
 

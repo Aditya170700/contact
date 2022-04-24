@@ -1,6 +1,6 @@
 <?php
 
-namespace Sk\Contact\Traits;
+namespace Adityaricki\Contact\Traits;
 
 use Ramsey\Uuid\Uuid as Generator;
 

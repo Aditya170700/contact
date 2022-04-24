@@ -1,5 +1,5 @@
 {
-    "name": "sk/contact",
+    "name": "adityaricki/contact",
     "description": "This will send email and save contact query into DB",
     "type": "library",
     "license": "MIT",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Sk\\Contact\\": "src/"
+            "Adityaricki\\Contact\\": "src/"
         }
     }
 }
