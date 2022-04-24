@@ -20,6 +20,6 @@ class ContactServiceProvider extends ServiceProvider
 
     public function register()
     {
-        # code...
+        //
     }
 }
