@@ -1,0 +1,19 @@
+{
+    "name": "sk/contact",
+    "description": "This will send email and save contact query into DB",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adityaricki",
+            "email": "adityaric72@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sk\\Contact\\": "src/"
+        }
+    }
+}
